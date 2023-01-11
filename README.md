@@ -1,4 +1,4 @@
-### Olá Mundo! Sou o Diogo Campos, estudante de Engenharia de Computação!
+### Olá Mundo! Sou o Diogo Campos
 
 - 🚩 Moro em Campo Grande - MS
 - 🌱 Estudando na Universidade Federal de Mato Grosso do Sul - UFMS
